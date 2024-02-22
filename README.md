@@ -1,2 +1,2 @@
 This code details the methodology we used to craft our proposed asset allocation for the 2024 TIPC assignment.
-Contained within this code is commented backward and forward looking scenario analysis, as well as the historical data utilized for part of the analysis (Yahoo Finance).
+Contained within this code is commented backward and forward looking scenario analysis, as well as the historical data utilized for part of the analysis (Yahoo Finance). Due to data limitations, our analysis begins where data is heavily populated before the Great Financial Crisis (10/2007).
